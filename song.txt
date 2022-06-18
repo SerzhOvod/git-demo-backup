@@ -3,6 +3,3 @@ Wall of shields
 standing strong
 on this their chosen battle field
 
-This is the branch
-
-This is the second commits the branch
